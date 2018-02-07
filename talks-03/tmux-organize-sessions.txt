@@ -1,0 +1,1 @@
+Please follow this link to view the presentation: http://slides.com/mivanek/managing-projects-with-tmux#/
