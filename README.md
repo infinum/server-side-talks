@@ -9,6 +9,10 @@ If you have any questions, concerns, comments, or if you want to speak, please d
 
 ## Presentations in chronological order
 
+### 7th Server-Side Talks (March 14th, 2018.)
+- [So you think you can test? - Luka Muzinic](talks-07/so-you-think-you-can-test.pdf)
+- [Nitpicking Terminology - Miro Svrtan](talks-07/nitpicking-terminology.txt)
+
 ### 6th Server-Side Talks (January 17th, 2018.)
 - [Chasing the Ghost - Senko Rašić, Good Code](talks-06/chasing-the-ghost.pdf)
 - [PGP for Everyday Use - Andrei Zvonimir Crnković, Infinum](talks-06/yubikey.pdf)
