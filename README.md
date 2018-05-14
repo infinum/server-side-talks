@@ -9,6 +9,10 @@ If you have any questions, concerns, comments, or if you want to speak, please d
 
 ## Presentations in chronological order
 
+### 8th Server-Side Talks (May 10th, 2018.)
+- [Application security bugs and issues, a pentesters perspective - Tonimir Kišasondi, Head of Open Systems and Security Lab @FOI](talks-08/appspec-from-pentesters-perspective.pdf)
+- [Do you really need WebSockets? - Stanko Krtalić Rusendić, Juvo - Home Friend](talks-08/do-you-really-need-websockets.pdf)
+
 ### 7th Server-Side Talks (March 14th, 2018.)
 - [So you think you can test? - Luka Muzinic](talks-07/so-you-think-you-can-test.pdf)
 - [Nitpicking Terminology - Miro Svrtan](talks-07/nitpicking-terminology.txt)
