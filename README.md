@@ -9,6 +9,10 @@ If you have any questions, concerns, comments, or if you want to speak, please d
 
 ## Presentations in chronological order
 
+### 10th Server-Side Talks (May 15th, 2019)
+- [Learn by Teaching - Miro Svrtan](talks-07/learn-by-teaching.txt)
+- [Scalable Application Architecture on AWS - Hrvoje Matić, Productive](talks-10/scalable-application-architecture-on-aws.pdf)
+
 ### 9th Server-Side Talks (March 13th, 2019)
 - [Simplifying Systems with Elixir - Saša Jurić, Aircloak](talks-09/simplifying-systems-with-elixir.pdf)
 - Intro to Kubernetes - Stanko Krtalić Rusendić, very big things.
