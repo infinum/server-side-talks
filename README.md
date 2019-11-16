@@ -9,6 +9,11 @@ If you have any questions, concerns, comments, or if you want to speak, please d
 
 ## Presentations in chronological order
 
+### 11th Server-Side Talks (November 13th, 2019)
+- Implementing Your Own OAuth Provider - Martin Morava, MI DIGITAL
+- [Agile Meets "Agile" Business - Tomislav Vukić, Infinum](talks-10/agile-meets-agile-business.pdf)
+- [Recurring Events in Elixir - Vedran Hrnčić, Infinum](talks-10/recurring-events-in-elixir.pdf)
+
 ### 10th Server-Side Talks (May 15th, 2019)
 - [Learn by Teaching - Miro Svrtan](talks-10/learn-by-teaching.txt)
 - [Scalable Application Architecture on AWS - Hrvoje Matić, Productive](talks-10/scalable-application-architecture-on-aws.pdf)
