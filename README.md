@@ -10,7 +10,7 @@ If you have any questions, concerns, comments, or if you want to speak, please d
 ## Presentations in chronological order
 
 ### 11th Server-Side Talks (November 13th, 2019)
-- Implementing Your Own OAuth Provider - Martin Morava, MI DIGITAL
+- [Implementing Your Own OAuth Provider - Martin Morava, MI DIGITAL](talks-11/implementing-your-own-oauth-provider.pdf)
 - [Agile Meets "Agile" Business - Tomislav Vukić, Infinum](talks-11/agile-meets-agile-business.pdf)
 - [Recurring Events in Elixir - Vedran Hrnčić, Infinum](talks-11/recurring-events-in-elixir.pdf)
 
